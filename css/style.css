@@ -446,7 +446,7 @@ label{
         justify-content: center;
     }
     .picture_picture{
-        width: 100%;
+        width: 300px;
     }
     .orange1{
         flex-direction: column;
